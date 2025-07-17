@@ -1,16 +1,30 @@
-## Hi there 👋
+## Assalamoalikum , Hello there 👋!
 
-<!--
-**ProfessionalProcrastinator001/ProfessionalProcrastinator001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me  
+I'm Abdullah Adil — a tech enthusiast who automates boring stuff and writes clean code... with tears (trying to hide the pain 😑).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on : Automating Google Sheets for data workflows using n8n
+- 🌱 I’m learning : AI Agents & Langchain 
+- 💬 Ask me about : Automation , Python , Software Documentation and Design
+- 📫 How to reach me : https://www.linkedin.com/in/abdullah-adil-16b664350/
+- ⚡ Not a Fun fact : I am super chill , untill a bug occurs ... then its War 💥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Automation](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=gear&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## 📈 GitHub Stats
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+## 🚀 Projects
+- 🔹 [Menu Ordering System](https://github.com/yourusername/project-name)
+
+## 🧠 Current Learning Goals
+- LangChain, Langraph , RAG, GenAI
+- Building smart automation bots
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-adil-16b664350/)
