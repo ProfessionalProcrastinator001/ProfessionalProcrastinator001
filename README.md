@@ -1,7 +1,7 @@
 ## Assalamoalaikum 👋!
 
 ## 💼 About Me  
-I'm Abdullah Adil ; a tech enthusiast who automates boring stuff and makes AI applications . 
+I'm Abdullah Adil ; a tech enthusiast who automates boring stuff and is trying to build AI applications . 
 
 - 🔭 I’m currently working on : Automating Google Sheets for data workflows using n8n
 - 🌱 I’m learning : AI Agents & Langchain 
