@@ -1,13 +1,12 @@
 ## Assalamoalaikum 👋!
 
 ## 💼 About Me  
-I'm Abdullah Adil ; a tech enthusiast who automates boring stuff and is trying to build AI applications . 
+I'm Abdullah Adil , a tech enthusiast who automates boring stuff and is trying to build AI applications . 
 
 - 🔭 I’m currently working on : Automating Google Sheets for data workflows using n8n
 - 🌱 I’m learning : AI Agents & Langchain 
 - 💬 Ask me about : Automation , Python , Software Documentation and Design
 - 📫 How to reach me : https://www.linkedin.com/in/abdullah-adil-16b664350/
-- ⚡ Not a Fun fact : I am super chill , untill a bug occurs ... then its War 💥
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
