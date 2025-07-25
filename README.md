@@ -23,7 +23,7 @@ I'm Abdullah Adil , a tech enthusiast who automates boring stuff and is trying t
 
 ## 🧠 Current Learning Goals
 - LangChain, Langraph , RAG, GenAI
-- Building smart automation bots
+- Building smart automation bots for improving business processes 
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-adil-16b664350/)
