@@ -1,4 +1,4 @@
-## Assalamoalaikum , Hello there 👋!
+## Assalamoalaikum 👋!
 
 ## 💼 About Me  
 I'm Abdullah Adil — a tech enthusiast who automates boring stuff and writes clean code... with tears (trying to hide the pain 😑).
