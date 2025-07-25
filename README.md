@@ -19,7 +19,7 @@ I'm Abdullah Adil , a tech enthusiast who automates boring stuff and is trying t
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ## 🚀 Projects
-- 🔹 [Menu Ordering System](https://github.com/yourusername/project-name)
+- 🔹 [The Emperor's Morgenmete](https://github.com/)
 
 ## 🧠 Current Learning Goals
 - LangChain, Langraph , RAG, GenAI
