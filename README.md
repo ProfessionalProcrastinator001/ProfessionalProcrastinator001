@@ -90,12 +90,12 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProfessionalProcrastinator001&show_icons=true&theme=radical&hide=stars&count_private=true&bg_color=0a0a0a&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfessionalProcrastinator001&theme=radical&background=0a0a0a&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProfessionalProcrastinator001&show_icons=true&theme=blue-green&hide=stars&count_private=true&bg_color=0a192f&title_color=00d4ff&text_color=e6f1ff&icon_color=a855f7&border_color=00d4ff&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfessionalProcrastinator001&theme=blue-green&background=0a192f&ring=00d4ff&fire=fbbf24&currStreakLabel=00d4ff&sideLabels=8892b0&sideNums=e6f1ff&currStreakNum=e6f1ff&dates=8892b0&border=00d4ff&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProfessionalProcrastinator001&theme=redical&bg_color=0a0a0a&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProfessionalProcrastinator001&theme=github-dark&bg_color=0a192f&color=00d4ff&line=a855f7&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&border_radius=10" width="90%" />
 </p>
 
 ─────────────────────────────────────────────────────────────────────────────────────────
