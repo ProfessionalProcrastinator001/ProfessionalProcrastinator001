@@ -1,6 +1,5 @@
-## README.md (With Animations + Badges + Chaos)
+## README.md
 
-```markdown
 <!-- Header with typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Abdullah+Adil;Professional+Procrastinator;...that+actually+ships" alt="Typing animation" />
@@ -29,7 +28,6 @@
 
 ```diff
 + "I don't always know the theory cold. But I ship."
-```
 
 ---
 
