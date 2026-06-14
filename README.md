@@ -5,7 +5,7 @@
 
 <!-- Animated hand wave + badges -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+  👋
 </p>
 
 <p align="center">
@@ -47,12 +47,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=600&center=true&vCenter=true&width=300&lines=⚡+What+I'm+doing+right+now" />
 </h2>
 
-<!-- Animated cards (using emojis + GIFs) -->
+<!-- Animated cards (using emojis only — no broken GIFs) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> 6th semester — almost done &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" /> Rust — learning (slowly) &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPoU/giphy.gif" width="30" /> Raspberry Pi 5 — GPIO chaos &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8/giphy.gif" width="30" /> Job hunt — Edge AI / DevOps
+  🎓 6th semester — almost done &nbsp;&nbsp;&nbsp;
+  🦀 Rust — learning (slowly) &nbsp;&nbsp;&nbsp;
+  🍓 Raspberry Pi 5 — GPIO chaos &nbsp;&nbsp;&nbsp;
+  💼 Job hunt — Edge AI / DevOps
 </p>
 
 ---
@@ -65,20 +65,20 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/10fCj7e7aQ7f8w/giphy.gif" width="60" /><br />
-      <b>🖐️ Hand Tracking → Arduino</b><br />
+      🖐️<br />
+      <b>Hand Tracking → Arduino</b><br />
       <sub>Python, OpenCV, MediaPipe, Arduino</sub><br />
       <sub>5 fingers on laptop = 5 LEDs IRL</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="60" /><br />
-      <b>📽️ PPTHelper</b><br />
+      📽️<br />
+      <b>PPTHelper</b><br />
       <sub>Python, OpenCV, MediaPipe</sub><br />
       <sub>Wave hand → slides change</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/l0HlDv0TIO4xJFtM4/giphy.gif" width="60" /><br />
-      <b>📞 Custom VoIP Dialer</b><br />
+      📞<br />
+      <b>Custom VoIP Dialer</b><br />
       <sub>Python, Asterisk, WebRTC, MariaDB</sub><br />
       <sub>Production dialer. Backend, UI, campaigns, CLI</sub>
     </td>
@@ -147,7 +147,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=600&center=true&vCenter=true&width=300&lines=📈+GitHub+stats" />
 </h2>
 
-<!-- Animated stats cards (hover effect via HTML) -->
+<!-- Animated stats cards -->
 <p align="center">
   <a href="https://github.com/ProfessionalProcrastinator001">
     <img src="https://github-readme-stats.vercel.app/api?username=ProfessionalProcrastinator001&show_icons=true&theme=radical&hide=stars&count_private=true&bg_color=0a0a0a&border_radius=10" width="48%" />
@@ -169,9 +169,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="40" /> <b>Learning:</b> Rust (the hard way) &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/xT9IgzoKnwFNmISR8/giphy.gif" width="40" /> <b>Building:</b> Something with Raspberry Pi 5 &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" /> <b>Looking for:</b> Edge AI / DevOps / AI Infrastructure
+  🔴 <b>Learning:</b> Rust (the hard way) &nbsp;&nbsp;&nbsp;&nbsp;
+  🟢 <b>Building:</b> Something with Raspberry Pi 5 &nbsp;&nbsp;&nbsp;&nbsp;
+  🟡 <b>Looking for:</b> Edge AI / DevOps / AI Infrastructure
 </p>
 
 ---
@@ -185,7 +185,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=500&lines=Chaos+is+expected.;Pandemonium+is+just+Tuesday.;Let's+build+something+that+actually+works." />
 </p>
 
-<!-- Glitch effect footer (pure HTML/CSS) -->
+<!-- Waving footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
 </p>
