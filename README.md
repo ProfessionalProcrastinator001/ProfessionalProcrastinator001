@@ -27,16 +27,17 @@
   </a>
 </p>
 
-```
+---
+
 > *"I don't always know the theory cold. But I ship."*
 
-─────────────────────────────────────────────────────────────────────────────────────────
+---
 
 ## What I'm doing right now
 
 🎓 6th semester — almost done &nbsp;&nbsp;&nbsp; 🦀 Rust — learning (slowly) &nbsp;&nbsp;&nbsp; 🍓 Raspberry Pi 5 — GPIO chaos &nbsp;&nbsp;&nbsp; 💼 Job hunt — Edge AI / DevOps
 
-─────────────────────────────────────────────────────────────────────────────────────────
+---
 
 ## Things I built while vibing
 
@@ -46,7 +47,7 @@
 | 📽️ **PPTHelper** | Python, OpenCV, MediaPipe | Wave hand → slides change |
 | 📞 **Custom VoIP Dialer** | Python, Asterisk, WebRTC, MariaDB | Production dialer. Backend, UI, campaigns, CLI |
 
-─────────────────────────────────────────────────────────────────────────────────────────
+---
 
 ## Where I did real work
 
@@ -62,7 +63,7 @@
 - 👥 5 developers. Zero written requirements. One color theme.
 - ✅ Delivered anyway. Ambiguity is just another problem to solve.
 
-─────────────────────────────────────────────────────────────────────────────────────────
+---
 
 ## Stuff I know
 
@@ -84,7 +85,7 @@
 
 **Embedded:** Raspberry Pi 5, Arduino, serial
 
-─────────────────────────────────────────────────────────────────────────────────────────
+---
 
 ## GitHub stats
 
@@ -97,13 +98,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProfessionalProcrastinator001&theme=github-dark&bg_color=0a192f&color=00d4ff&line=a855f7&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&border_radius=10" width="90%" />
 </p>
 
-─────────────────────────────────────────────────────────────────────────────────────────
+---
 
 ## Currently
 
   🔴 **Learning:** Rust (the hard way) &nbsp;&nbsp;&nbsp; 🟢 **Building:** Stuff with Raspberry Pi 5 &nbsp;&nbsp;&nbsp; 🟡 **Looking for:** Edge AI / DevOps / AI Infrastructure
 
-─────────────────────────────────────────────────────────────────────────────────────────
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ProfessionalProcrastinator001&label=Visitors&color=2ea44f&style=for-the-badge" />
