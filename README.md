@@ -33,14 +33,13 @@
 
 ## 🚀 What I'm doing right now
 
-```mermaid
 timeline
     title Abdullah's Current Life
     6th Semester : Almost done
     Rust : Learning (slowly)
     Raspberry Pi 5 : Messing with GPIO
     Job hunt : Edge AI / DevOps / AI Infra
-```
+
 
 ---
 
