@@ -27,11 +27,11 @@
   </a>
 </p>
 
-<div style="border-top: 1px solid #000000;"></div>
+────────────────────────────────────────────────────────
 
 > *"I don't always know the theory cold. But I ship."*
 
-<div style="border-top: 1px solid #000000;"></div>
+────────────────────────────────────────────────────────
 
 ## ⚡ What I'm doing right now
 
