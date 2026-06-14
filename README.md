@@ -1,9 +1,9 @@
-<!-- Header with typing animation -->
+<!-- Header typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Abdullah+Adil;Professional+Procrastinator;...that+actually+ships" alt="Typing animation" />
 </h1>
 
-<!-- Badges -->
+<!-- Badges (shiny, clickable, real) -->
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-3.76-2ea44f?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/11_months-production_experience-blue?style=for-the-badge" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Proxmox-server-darkgreen?style=for-the-badge&logo=proxmox&logoColor=white" />
 </p>
 
-<!-- Socials -->
+<!-- Social links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-adil-16b664350/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,10 +30,10 @@
 
 ## 🚀 What I'm doing right now
 
-- 6th semester — almost done
-- Rust — learning slowly but surely
-- Raspberry Pi 5 — messing with GPIO
-- Job hunt — Edge AI / DevOps / AI Infrastructure
+- 🎓 6th semester — almost done
+- 🦀 Rust — learning slowly but surely
+- 🍓 Raspberry Pi 5 — messing with GPIO
+- 💼 Job hunt — Edge AI / DevOps / AI Infrastructure
 
 ---
 
@@ -64,13 +64,17 @@
 
 ## 🧠 Stuff I know
 
+<div align="center">
+
 | Skill | Level |
 |-------|-------|
-| Python | 85% |
-| OpenCV / MediaPipe | 75% |
-| Proxmox / Asterisk | 80% |
-| Rust | learning (30%) |
-| Docker | learning (40%) |
+| Python | <img src="https://progress-bar.xyz/85?width=200&color=2ea44f&animation=slide" /> |
+| OpenCV / MediaPipe | <img src="https://progress-bar.xyz/75?width=200&color=blue&animation=slide" /> |
+| Proxmox / Asterisk | <img src="https://progress-bar.xyz/80?width=200&color=orange&animation=slide" /> |
+| Rust | <img src="https://progress-bar.xyz/30?width=200&color=red&animation=slide" /> *learning* |
+| Docker | <img src="https://progress-bar.xyz/40?width=200&color=yellow&animation=slide" /> *learning* |
+
+</div>
 
 **Languages:** Python, Java, C++, Rust (learning), SQL
 
@@ -84,7 +88,7 @@
 
 ---
 
-## 📈 GitHub stats
+## 📈 GitHub stats (real, not fake)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProfessionalProcrastinator001&show_icons=true&theme=dark&hide=stars&count_private=true" width="48%" />
@@ -95,12 +99,13 @@
 
 ## 🎯 Currently
 
-- 🔴 Learning Rust (the hard way)
-- 🟢 Building something with Raspberry Pi 5
-- 🟡 Looking for Edge AI / DevOps / AI Infrastructure roles
+- 🔴 **Learning:** Rust (the hard way)
+- 🟢 **Building:** Something with Raspberry Pi 5
+- 🟡 **Looking for:** Edge AI / DevOps / AI Infrastructure roles
 
 ---
 
+<!-- Footer typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&center=true&vCenter=true&width=500&lines=Chaos+is+expected.;Pandemonium+is+just+Tuesday." />
 </p>
