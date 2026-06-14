@@ -27,11 +27,11 @@
   </a>
 </p>
 
-<hr size="1" color="blue">
+<div style="border-top: 1px solid #d0d7de;"></div>
 
 > *"I don't always know the theory cold. But I ship."*
 
-<hr size="1" color="blue">
+<div style="border-top: 1px solid #d0d7de;"></div>
 
 ## ⚡ What I'm doing right now
 
