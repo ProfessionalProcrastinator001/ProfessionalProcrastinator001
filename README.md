@@ -43,9 +43,9 @@
 
 | Project | Stack | What it does |
 |---------|-------|---------------|
-| 🖐️ **Hand Tracking → Arduino** | Python, OpenCV, MediaPipe, Arduino | 5 fingers on laptop = 5 LEDs IRL |
-| 📽️ **PPTHelper** | Python, OpenCV, MediaPipe | Wave hand → slides change |
-| 📞 **Custom VoIP Dialer** | Python, Asterisk, WebRTC, MariaDB | Production dialer. Backend, UI, campaigns, CLI |
+| **Hand Tracking → Arduino** | Python, OpenCV, MediaPipe, Arduino | 5 fingers on laptop = 5 LEDs IRL |
+| **PPTHelper** | Python, OpenCV, MediaPipe | Wave hand → slides change |
+| **Custom VoIP Dialer** | Python, Asterisk, WebRTC, MariaDB | Production dialer. Backend, UI, campaigns, CLI |
 
 ---
 
@@ -53,15 +53,15 @@
 
 **AI Developer & Server Manager** | Blucentric | July 2025 - June 2026
 
-- 🚀 Proxmox, Hetzner, Asterisk — did the job of 4 people using AI
-- 📞 Built a dialer from scratch. It worked. People used it.
-- 🖥️ Managed bare-metal servers, Nginx, STUN, automation scripts
-- 🤖 Wrote Python automation + n8n workflows
+- Proxmox, Hetzner, Asterisk — did the job of 4 people using AI
+- Built a dialer from scratch. It worked. People used it.
+- Managed bare-metal servers, Nginx, STUN, automation scripts
+- Wrote Python automation + n8n workflows
 
 **Team Lead** | Confidential Client | May 2026
 
-- 👥 5 developers. Zero written requirements. One color theme.
-- ✅ Delivered anyway. Ambiguity is just another problem to solve.
+- 5 developers. Zero written requirements. One color theme.
+- Delivered anyway. Ambiguity is just another problem to solve.
 
 ---
 
