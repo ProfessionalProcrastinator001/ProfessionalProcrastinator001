@@ -1,10 +1,10 @@
 <!-- Header typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Abdullah+Adil;Professional+Procrastinator;...that+actually+ships;Vibe+coder+by+necessity" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&lines=Abdullah+Adil;Professional+Procrastinator;...that+actually+ships;Vibe+coder+by+necessity" alt="Typing animation" />
 </h1>
 
 <p align="center">
-  👋
+  Assalamoalaikum 👋
 </p>
 
 <p align="center">
