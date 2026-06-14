@@ -39,7 +39,7 @@
 
 ─────────────────────────────────────────────────────────────────────────────────────────
 
-## Things I actually built
+## Things I built while vibing
 
 | Project | Stack | What it does |
 |---------|-------|---------------|
