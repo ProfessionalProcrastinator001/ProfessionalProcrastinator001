@@ -33,13 +33,13 @@
 
 ─────────────────────────────────────────────────────────────────────────────────────────
 
-## ⚡ What I'm doing right now
+## What I'm doing right now
 
 🎓 6th semester — almost done &nbsp;&nbsp;&nbsp; 🦀 Rust — learning (slowly) &nbsp;&nbsp;&nbsp; 🍓 Raspberry Pi 5 — GPIO chaos &nbsp;&nbsp;&nbsp; 💼 Job hunt — Edge AI / DevOps
 
----
+─────────────────────────────────────────────────────────────────────────────────────────
 
-## 📦 Things I actually built
+## Things I actually built
 
 | Project | Stack | What it does |
 |---------|-------|---------------|
@@ -47,9 +47,9 @@
 | 📽️ **PPTHelper** | Python, OpenCV, MediaPipe | Wave hand → slides change |
 | 📞 **Custom VoIP Dialer** | Python, Asterisk, WebRTC, MariaDB | Production dialer. Backend, UI, campaigns, CLI |
 
----
+─────────────────────────────────────────────────────────────────────────────────────────
 
-## 💼 Where I did real work
+## Where I did real work
 
 **AI Developer & Server Manager** | Blucentric | July 2025 - June 2026
 
@@ -63,9 +63,9 @@
 - 👥 5 developers. Zero written requirements. One color theme.
 - ✅ Delivered anyway. Ambiguity is just another problem to solve.
 
----
+─────────────────────────────────────────────────────────────────────────────────────────
 
-## 🧠 Stuff I know
+## Stuff I know
 
 | Skill | Level |
 |-------|-------|
@@ -85,9 +85,9 @@
 
 **Embedded:** Raspberry Pi 5, Arduino, serial
 
----
+─────────────────────────────────────────────────────────────────────────────────────────
 
-## 📈 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProfessionalProcrastinator001&show_icons=true&theme=radical&hide=stars&count_private=true&bg_color=0a0a0a&border_radius=10" width="48%" />
@@ -98,13 +98,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProfessionalProcrastinator001&theme=redical&bg_color=0a0a0a&hide_border=true&area=true" width="90%" />
 </p>
 
----
+─────────────────────────────────────────────────────────────────────────────────────────
 
-## 🎯 Currently
+## Currently
 
-🔴 **Learning:** Rust (the hard way) &nbsp;&nbsp;&nbsp; 🟢 **Building:** Something with Raspberry Pi 5 &nbsp;&nbsp;&nbsp; 🟡 **Looking for:** Edge AI / DevOps / AI Infrastructure
+  🔴 **Learning:** Rust (the hard way) &nbsp;&nbsp;&nbsp; 🟢 **Building:** Stuff with Raspberry Pi 5 &nbsp;&nbsp;&nbsp; 🟡 **Looking for:** Edge AI / DevOps / AI Infrastructure
 
----
+─────────────────────────────────────────────────────────────────────────────────────────
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ProfessionalProcrastinator001&label=Visitors&color=2ea44f&style=for-the-badge" />
