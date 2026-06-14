@@ -1,11 +1,9 @@
-## README.md
-
 <!-- Header with typing animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Abdullah+Adil;Professional+Procrastinator;...that+actually+ships" alt="Typing animation" />
 </h1>
 
-<!-- Badges - shiny but real -->
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-3.76-2ea44f?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/11_months-production_experience-blue?style=for-the-badge" />
@@ -26,20 +24,16 @@
 
 ---
 
-```diff
-+ "I don't always know the theory cold. But I ship."
+> *"I don't always know the theory cold. But I ship."*
 
 ---
 
 ## 🚀 What I'm doing right now
 
-timeline
-    title Abdullah's Current Life
-    6th Semester : Almost done
-    Rust : Learning (slowly)
-    Raspberry Pi 5 : Messing with GPIO
-    Job hunt : Edge AI / DevOps / AI Infra
-
+- 6th semester — almost done
+- Rust — learning slowly but surely
+- Raspberry Pi 5 — messing with GPIO
+- Job hunt — Edge AI / DevOps / AI Infrastructure
 
 ---
 
@@ -55,43 +49,28 @@ timeline
 
 ## 💼 Where I did real work
 
-```ascii
-┌─────────────────────────────────────────────────┐
-│  AI Developer & Server Manager                  │
-│  Blucentric | July 2025 - June 2026             │
-├─────────────────────────────────────────────────┤
-│  • Proxmox, Hetzner, Asterisk                   │
-│  • Did the job of 4 people using AI             │
-│  • Built dialer from scratch. It worked.        │
-│  • Nginx, STUN, automation scripts              │
-└─────────────────────────────────────────────────┘
+**AI Developer & Server Manager** | Blucentric | July 2025 - June 2026
 
-┌─────────────────────────────────────────────────┐
-│  Team Lead                                      │
-│  Confidential Client | May 2026                 │
-├─────────────────────────────────────────────────┤
-│  • 5 developers. Zero requirements.             │
-│  • One color theme. Delivered anyway.           │
-│  • Ambiguity is just another problem to solve   │
-└─────────────────────────────────────────────────┘
-```
+- Proxmox, Hetzner, Asterisk — did the job of 4 people using AI
+- Built a dialer from scratch. It worked. People used it.
+- Managed bare-metal servers, Nginx, STUN, automation scripts
+
+**Team Lead** | Confidential Client | May 2026
+
+- 5 developers. Zero written requirements. One color theme.
+- Delivered anyway. Ambiguity is just another problem to solve.
 
 ---
 
 ## 🧠 Stuff I know
 
-<!-- Skill bars that actually move on hover (CSS only) -->
-<div align="center">
-  
 | Skill | Level |
 |-------|-------|
-| Python | <img src="https://progress-bar.xyz/85?width=200&color=2ea44f" /> |
-| OpenCV / MediaPipe | <img src="https://progress-bar.xyz/75?width=200&color=blue" /> |
-| Proxmox / Asterisk | <img src="https://progress-bar.xyz/80?width=200&color=orange" /> |
-| Rust | <img src="https://progress-bar.xyz/30?width=200&color=red" /> *learning* |
-| Docker | <img src="https://progress-bar.xyz/40?width=200&color=yellow" /> *learning* |
-
-</div>
+| Python | 85% |
+| OpenCV / MediaPipe | 75% |
+| Proxmox / Asterisk | 80% |
+| Rust | learning (30%) |
+| Docker | learning (40%) |
 
 **Languages:** Python, Java, C++, Rust (learning), SQL
 
@@ -105,7 +84,7 @@ timeline
 
 ---
 
-## 📈 GitHub Stats (real, not fake)
+## 📈 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProfessionalProcrastinator001&show_icons=true&theme=dark&hide=stars&count_private=true" width="48%" />
@@ -116,15 +95,12 @@ timeline
 
 ## 🎯 Currently
 
-- 🔴 **Learning:** Rust (the hard way)
-- 🟢 **Building:** Something with Raspberry Pi 5
-- 🟡 **Looking for:** Edge AI / DevOps / AI Infrastructure roles
+- 🔴 Learning Rust (the hard way)
+- 🟢 Building something with Raspberry Pi 5
+- 🟡 Looking for Edge AI / DevOps / AI Infrastructure roles
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&center=true&vCenter=true&width=500&lines=Chaos+is+expected.;Pandemonium+is+just+Tuesday." />
 </p>
-```
-
----
