@@ -1,6 +1,6 @@
 <!-- Header typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&pause=1000&center=true&vCenter=true&width=700&color=1c395a&lines=Abdullah+Adil;Professional+Procrastinator;Vibe+coder+by+necessity...;who+actually+knows+how+to+ship+stuff" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&pause=1000&center=true&vCenter=true&width=700&color=ADD8E6&lines=Abdullah+Adil;Professional+Procrastinator;Vibe+coder+by+necessity...;who+actually+knows+how+to+ship+stuff" alt="Typing animation" />
 </h1>
 
 <p align="center">
